@@ -1,0 +1,14 @@
+{
+  "name": "ua-web-challenge",
+  "version": "0.0.0",
+  "authors": [],
+  "description": "none",
+  "license": "MIT",
+  "devDependencies": {
+    "normalize.css": "latest",
+    "reset-css":"latest",
+    "fontawesome":"latest",
+    "bootstrap":"latest",
+    "jquery":"latest"
+  }
+}
